@@ -57,9 +57,9 @@ $ fuel-download svhn 2 --clear
 Download the CelebA dataset:
 
 ``` bash
-$ fuel-download celeba 64
+$ fuel-download celeba
 $ fuel-convert celeba 64
-$ fuel-download celeba 64 --clear
+$ fuel-download celeba --clear
 ```
 
 ## Training the models
